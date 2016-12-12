@@ -1,8 +1,16 @@
 # knowledge
 links for articles
 
-Data Science
 
-Data Science: объясняем на картинках 2016.12.06 http://ain.ua/special/data-science/
+<strong>Data Science:</strong>
+<a href="http://ain.ua/special/data-science/">Data Science: объясняем на картинках 2016.12.06</a>
 
-Как понять, что вашему стартапу нужен Data Scientist 2016.12.08 http://ain.ua/special/data-scientist/
+<a href="http://ain.ua/special/data-scientist/">Как понять, что вашему стартапу нужен Data Scientist 2016.12.08</a>
+
+
+
+<strong>Frontend guids:</strong>
+
+<a href="https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90#.vqz5e9grc">The Practical Guide to Becoming a Professional Web Developer 2016.06.20</a>
+
+<a href="https://medium.com/@gucol_lu/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0-%D0%BA%D1%83%D0%B4%D0%B0-%D0%B8%D0%B4%D1%82%D0%B8-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-5397d1185a10#.z3hakt2b5">Фронтенд для новичка. Куда идти и что делать? 2016.11.18 </a>
