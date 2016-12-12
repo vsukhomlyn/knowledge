@@ -3,6 +3,7 @@ links for articles
 
 
 <strong>Data Science:</strong>
+
 <a href="http://ain.ua/special/data-science/">Data Science: объясняем на картинках 2016.12.06</a>
 
 <a href="http://ain.ua/special/data-scientist/">Как понять, что вашему стартапу нужен Data Scientist 2016.12.08</a>
