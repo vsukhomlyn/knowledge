@@ -1,7 +1,7 @@
 # knowledge
 links for articles
 
-<strong>Frontend guids:</strong>
+<strong>Life guids:</strong>
 
 <a href="https://alexvermeer.com/8760hours/">8,760 Hours: How to get the most out of next year 2016.12.26</a>
 
