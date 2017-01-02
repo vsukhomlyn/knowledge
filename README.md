@@ -16,6 +16,7 @@ links for articles
 
 <strong>Frontend guids:</strong>
 
+<a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.58nzdhntd">What to learn in 2017 if you’re a frontend developer 2016.12.27</a>
 
 <a href="https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.6l9kea2bo">Top JavaScript Frameworks & Topics to Learn in 2017 2016.12.09</a>
 
