@@ -23,3 +23,5 @@ links for articles
 <a href="https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90#.vqz5e9grc">The Practical Guide to Becoming a Professional Web Developer 2016.06.20</a>
 
 <a href="https://medium.com/@gucol_lu/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0-%D0%BA%D1%83%D0%B4%D0%B0-%D0%B8%D0%B4%D1%82%D0%B8-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-5397d1185a10#.z3hakt2b5">Фронтенд для новичка. Куда идти и что делать? 2016.11.18 </a>
+
+<a href="https://github.com/joshburgess/not-awesome-es6-classes/">A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome 2016.09.01</a>
